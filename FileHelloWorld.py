@@ -1,0 +1,6 @@
+letters = (['q','w', 'e', 'r', 't', 'y','u', 'i', 'o', 'p'])
+print(len(letters))
+letters.append('f')
+print(letters)
+vowles = letters.pop()
+print(vowles)
